@@ -1,7 +1,6 @@
 package com.joy.product.service;
 
 import com.joy.product.dataobject.ProductCategory;
-import com.joy.product.dataobject.ProductInfo;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

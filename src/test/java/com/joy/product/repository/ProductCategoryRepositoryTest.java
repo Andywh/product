@@ -30,6 +30,4 @@ public class ProductCategoryRepositoryTest {
         Assert.assertTrue(list.size() > 0);
     }
 
-
-
 }
