@@ -2,7 +2,6 @@ package com.joy.product.service.impl;
 
 import com.joy.product.common.DecreaseStockInput;
 import com.joy.product.common.ProductInfoOutput;
-import com.joy.product.dto.CartDTO;
 import com.joy.product.dataobject.ProductInfo;
 import com.joy.product.enums.ProductStatusEnum;
 import com.joy.product.enums.ResultEnum;

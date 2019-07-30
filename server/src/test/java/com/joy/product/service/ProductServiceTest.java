@@ -2,7 +2,6 @@ package com.joy.product.service;
 
 import com.joy.product.common.DecreaseStockInput;
 import com.joy.product.common.ProductInfoOutput;
-import com.joy.product.dto.CartDTO;
 import com.joy.product.dataobject.ProductInfo;
 import org.junit.Assert;
 import org.junit.Test;

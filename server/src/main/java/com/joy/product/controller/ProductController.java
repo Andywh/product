@@ -2,7 +2,6 @@ package com.joy.product.controller;
 
 import com.joy.product.common.DecreaseStockInput;
 import com.joy.product.common.ProductInfoOutput;
-import com.joy.product.dto.CartDTO;
 import com.joy.product.VO.ProductInfoVO;
 import com.joy.product.VO.ProductVO;
 import com.joy.product.VO.ResultVO;
