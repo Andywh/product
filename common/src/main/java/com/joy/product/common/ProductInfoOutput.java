@@ -12,10 +12,8 @@ import java.util.Date;
  * Created by Ai Lun on 2019-07-22.
  */
 @Data
-@Entity
 public class ProductInfoOutput {
 
-    @Id
     private String productId;
 
     /** 名字. */
@@ -38,7 +36,4 @@ public class ProductInfoOutput {
 
     /** 类目编号. */
     private Integer categoryType;
-
-    private Date createTime;
-
-    private Date updateTime;}
+}
